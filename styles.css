@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    
+}
+.whit{
+    background-color: rgb(168, 166, 166) !important;
+    width: 100% !important;
+    height: 103px;
+    border-bottom: 1px gray ;
+}
+.navbar li a:hover{
+color: blue;
+}
+
+.brd{
+    width: 100%;
+    background-color: #95c93d;
+    box-sizing: border-box !important;
+}
+
+.eft p{
+    transform: translateY(left)
+}
+@media (MaX-Width: 999px){
+    .bh{
+        display: none;
+    }
+    /*.brdd{
+        background-image: url(assets/stampmini.jpg);
+        background-position: top 80px left 50px;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-color:#95c93d ;
+    }*/
+}
+
+
+.mar{
+    background-color: #26bbb0;
+}
+
+.card:hover{ 
+    box-shadow: 1px 8px 20px grey;
+}
